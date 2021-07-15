@@ -1,0 +1,9 @@
+*
+
+!/.gitignore
+!/src
+!/src/**
+!/design
+!/design/**
+!/instructions.md
+!/style-guide.md
